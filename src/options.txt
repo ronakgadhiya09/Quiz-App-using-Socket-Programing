@@ -1,0 +1,20 @@
+ls,grep,mv,cat
+cp,touch,mkdir,mv
+ls,cd,cat,pwd
+cp,rm,mv,mkdir
+awk,sed,grep,find
+pwd,ls,cd,dir
+ls -a,ls -l,ls -R,ls -h
+ln,cp,mkdir,mv
+more,tail,head,cat
+cd ../..,cd ~,cd ..,cd /
+locate,grep,search,find
+whatis,info,man,help
+perm,chgrp,chmod,chown
+end,terminate,kill,stop
+compress,zip,gzip,tar
+reverse,tail -r,tac,rev
+rm,purge,rmdir,delete
+df,ls -s,du,size
+pgrep,list,ps,top
+grep -c,wc -l,lines,count
