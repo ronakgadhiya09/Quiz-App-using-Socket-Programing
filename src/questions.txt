@@ -1,0 +1,20 @@
+What command is used to display the contents of a file in the terminal?
+Which command is used to create a new directory in the current location?
+What command is used to list all files and directories in the current directory?
+Which command is used to move or rename files and directories?
+What command is used to find occurrences of a specific text within files?
+What command is used to display the current working directory?
+How can you list all files and directories in long format?
+Which command is used to create a symbolic link?
+What command is used to display the last lines of a file?
+How do you navigate to the parent directory?
+Which command is used to search for files matching a specified pattern?
+How do you display the manual page for a command?
+What command is used to change file permissions?
+How do you terminate a running process?
+Which command is used to compress files in Linux?
+How do you view the contents of a file in reverse order?
+What command is used to remove empty directories?
+How do you find the total size of a directory?
+Which command is used to list all currently running processes?
+What command is used to count the number of lines in a file?

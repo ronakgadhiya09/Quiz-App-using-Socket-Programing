@@ -1,0 +1,20 @@
+cat
+mkdir
+ls
+mv
+grep
+pwd
+ls -l
+ln
+tail
+cd ..
+find
+man
+chmod
+kill
+gzip
+tac
+rmdir
+du
+ps
+wc -l

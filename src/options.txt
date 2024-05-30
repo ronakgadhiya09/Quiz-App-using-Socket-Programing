@@ -1,20 +1,20 @@
-ls,grep,mv,cat
-cp,touch,mkdir,mv
-ls,cd,cat,pwd
-cp,rm,mv,mkdir
-awk,sed,grep,find
-pwd,ls,cd,dir
-ls -a,ls -l,ls -R,ls -h
-ln,cp,mkdir,mv
-more,tail,head,cat
-cd ../..,cd ~,cd ..,cd /
-locate,grep,search,find
-whatis,info,man,help
-perm,chgrp,chmod,chown
-end,terminate,kill,stop
-compress,zip,gzip,tar
-reverse,tail -r,tac,rev
-rm,purge,rmdir,delete
-df,ls -s,du,size
-pgrep,list,ps,top
-grep -c,wc -l,lines,count
+cat,ls,mv,grep
+mkdir,touch,rm,cp
+ls,cd,pwd,cat
+mv,cp,rm,mkdir
+grep,find,awk,sed
+ls,pwd,cd,dir
+ls -l,ls -a,ls -h,ls -R
+ln,mv,cp,mkdir
+head,tail,cat,more
+cd ..,cd /,cd ~,cd ../..
+find,grep,search,locate
+man,help,info,whatis
+chmod,chown,chgrp,perm
+kill,end,terminate,stop
+gzip,zip,tar,compress
+tac,tail -r,rev,reverse
+rmdir,rm,delete,purge
+du,df,size,ls -s
+ps,top,pgrep,list
+wc -l,grep -c,count,lines
