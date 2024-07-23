@@ -3,6 +3,10 @@
 ## Description
 This is a socket programing based quiz application that allows clients to connect to a server, answer quiz questions within a time limit, receive feedback on their answers, and get their final scores.
 
+## Video Demo
+
+https://github.com/user-attachments/assets/adbc8620-4315-4568-865f-52a24b75708b
+
 ## Features
 - **Quiz Questions:** Server sends quiz questions to clients one by one.
 - **Multiple-Choice Options:** Questions include multiple-choice options.
