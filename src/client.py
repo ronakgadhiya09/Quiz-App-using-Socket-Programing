@@ -11,6 +11,12 @@ SERVER_PORT = 12345
 # Create a socket object
 client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
+# Global variables
+time_left = 20  # Initial time (in seconds) for each question
+timer_running = False  # Flag to track if the timer is running
+questions_answered = 0
+number_of_questions = 3
+
 # Create a Tkinter window
 root = tk.Tk()
 root.title("Quiz Client")
@@ -19,12 +25,6 @@ root.configure(bg='#f8f9fb')
 
 label = tk.Label(root, text='QuBic', fg='#70e000', bg='#f8f9fb', font=('Arial', 20, 'bold'))
 label.pack(side='top')
-
-# Global variables
-time_left = 20  # Initial time (in seconds) for each question
-timer_running = False  # Flag to track if the timer is running
-questions_answered = 0
-number_of_questions = 3
 
 
 # Function to update the countdown timer label
